@@ -2,3 +2,4 @@ nginx
 portainer/portainer
 bitnami/mongodb
 mongo:latest
+nacos/nacos-server
