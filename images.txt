@@ -6,3 +6,4 @@ nacos/nacos-server
 prom/prometheus:latest
 grafana/grafana:latest
 minio/minio
+mysql
