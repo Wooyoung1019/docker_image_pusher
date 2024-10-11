@@ -5,3 +5,5 @@ mongo:latest
 nacos/nacos-server
 prom/prometheus:latest
 grafana/grafana:latest
+quay.io/minio/minio
+docker://minio/minio
