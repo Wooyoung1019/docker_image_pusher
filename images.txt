@@ -1,3 +1,4 @@
 nginx
 portainer/portainer
 bitnami/mongodb
+mongo:latest
