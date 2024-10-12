@@ -7,3 +7,4 @@ prom/prometheus:latest
 grafana/grafana:latest
 minio/minio
 mysql
+redis
