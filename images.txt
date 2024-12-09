@@ -1,1 +1,1 @@
-portainer
+portainer/portainer-docker-extension:2.21.4
