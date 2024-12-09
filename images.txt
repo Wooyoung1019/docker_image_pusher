@@ -3,3 +3,4 @@ portainer/portainer
 mysql:8.0.22
 redis:6.2.1
 minio/minio
+mongo:7.0.16
