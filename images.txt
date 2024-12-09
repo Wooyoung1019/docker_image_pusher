@@ -1,10 +1,1 @@
-nginx
-portainer/portainer
-bitnami/mongodb
-mongo:latest
-nacos/nacos-server
-prom/prometheus:latest
-grafana/grafana:latest
-minio/minio
-mysql
-redis
+portainer
