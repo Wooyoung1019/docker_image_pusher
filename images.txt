@@ -1,2 +1,4 @@
 portainer/portainer-docker-extension:2.21.4
 portainer/portainer
+mysql:8.0.22
+redis:6.2.1
