@@ -7,3 +7,4 @@ mongodb/mongodb-community-server:latest
 mongo:latest
 mongo:5.0.30
 silsuer/yapi:latest
+yapipro/yapi:latest
