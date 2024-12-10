@@ -4,3 +4,5 @@ mysql:8.0.22
 redis:6.2.1
 minio/minio
 mongodb/mongodb-community-server:latest
+mongo:latest
+mongo:5.0.30
