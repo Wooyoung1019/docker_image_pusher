@@ -8,3 +8,4 @@ mongo:latest
 mongo:5.0.30
 silsuer/yapi:latest
 yapipro/yapi:latest
+jayfong/yapi:1.10.2
