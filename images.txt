@@ -1,12 +1,7 @@
-portainer/portainer-docker-extension:2.21.4
 portainer/portainer
 mysql:8.0.22
-redis:6.2.1
 minio/minio
-mongodb/mongodb-community-server:latest
-mongo:latest
 mongo:5.0.30
-silsuer/yapi:latest
-yapipro/yapi:latest
 jayfong/yapi:1.10.2
+redis:6.2.1
 nacos/nacos-server:v2.1.1
