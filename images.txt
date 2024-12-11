@@ -9,5 +9,4 @@ mongo:5.0.30
 silsuer/yapi:latest
 yapipro/yapi:latest
 jayfong/yapi:1.10.2
-nacos/nacos-server:v2.4.3
-nacos/nacos-server:latest
+nacos/nacos-server:v2.1.1
