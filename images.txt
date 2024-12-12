@@ -5,3 +5,4 @@ mongo:5.0.30
 jayfong/yapi:1.10.2
 redis:6.2.1
 nacos/nacos-server:v2.1.1
+nacos/nacos-server:v2.3.1
