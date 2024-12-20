@@ -1,4 +1,5 @@
 portainer/portainer
+portainer/portainer-ce
 mysql:8.0.22
 minio/minio
 mongo:5.0.30
