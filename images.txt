@@ -1,5 +1,5 @@
 apache/kafka:3.9.0
-apache/kafka:3.6.0
+bitnami/kafka:3.6
 apache/kafka:latest
 portainer/portainer
 portainer/portainer-ce
