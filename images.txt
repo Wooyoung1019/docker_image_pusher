@@ -1,3 +1,4 @@
+apache/kafka:3.9.0
 portainer/portainer
 portainer/portainer-ce
 mysql:8.0.22
