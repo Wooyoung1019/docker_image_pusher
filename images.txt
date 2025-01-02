@@ -1,6 +1,5 @@
-apache/kafka:3.9.0
 bitnami/kafka:3.6
-apache/kafka:latest
+dushixiang/kafka-map:v1.3.3
 portainer/portainer
 portainer/portainer-ce
 mysql:8.0.22
