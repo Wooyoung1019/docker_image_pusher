@@ -1,12 +1,1 @@
-bitnami/kafka:3.6
-dushixiang/kafka-map:v1.3.3
-portainer/portainer
-portainer/portainer-ce
-minio/minio
-mysql:8.0.22
-mongo:5.0.30
 tdengine/tdengine:3.3.5.0
-jayfong/yapi:1.10.2
-redis:6.2.1
-nacos/nacos-server:v2.1.1
-nacos/nacos-server:v2.3.1
