@@ -1,5 +1,1 @@
-tdengine/tdengine:3.3.5.0
-python:3.10.11
-openjdk:8-jre
-jenkins/jenkins:latest
-jenkinsci/blueocean:latest
+jenkins/jenkins:lts-centos7-jdk8
