@@ -1,1 +1,1 @@
-docker pull openjdk:8u121-jdk-alpine
+openjdk:8u121-jdk-alpine
