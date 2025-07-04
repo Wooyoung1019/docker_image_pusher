@@ -1,1 +1,1 @@
-openjdk:21
+sonatype/nexus:pro-2.15.2-03
