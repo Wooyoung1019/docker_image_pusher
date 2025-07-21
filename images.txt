@@ -1,1 +1,5 @@
-elasticsearch:8.11.3
+opensearchproject/opensearch:2.19.1
+infiniflow/infinity:v0.6.0-dev3
+infiniflow/sandbox-executor-manager:latest
+minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
+valkey/valkey:8
