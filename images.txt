@@ -1,1 +1,1 @@
-1panel/maxkb:v2.0.0
+sonatype/nexus3:3.9.0-01
