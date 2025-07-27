@@ -1,1 +1,1 @@
-rabbitmq:3.13.7-management-alpine
+bitnami/kafka:4.0
