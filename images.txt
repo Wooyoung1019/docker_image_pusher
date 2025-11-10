@@ -1,1 +1,1 @@
-filebrowser/filebrowser
+redis:6.2.21
