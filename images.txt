@@ -1,1 +1,2 @@
-redis:6.2.21
+githubyumao/mcsmanager-web
+githubyumao/mcsmanager-daemon
