@@ -1,2 +1,1 @@
-githubyumao/mcsmanager-web
-githubyumao/mcsmanager-daemon
+langfuse/langfuse:sha-c5467ef
