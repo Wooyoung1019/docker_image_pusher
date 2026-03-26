@@ -1,1 +1,1 @@
-langfuse/langfuse:sha-c5467ef
+ghcr.io/ggerganov/llama.cpp:full
