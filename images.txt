@@ -1,1 +1,1 @@
-hubmirrorbytogettoyou/ghcr.io.ggerganov.llama.cpp:server-cuda--b1-a15ef8f
+hubmirrorbytogettoyou/ghcr.io.ggerganov.llama.cpp:full
